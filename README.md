@@ -23,26 +23,35 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 🔧 **Tools**: VSCode, IntelliJ, Tableau, Stata, Jupyter Notebook, Datalor
 
-
 ## Projects
 
-📂Here are some of the projects I've been working on. They demonstrate my skills in data analysis, programming, and software engineering:
+📂 Here are some of the projects I've been working on. They demonstrate my skills in data analysis, programming, and software engineering:
 
-1. **Laptop Analysis**
-   - Description: Created a web scrapper to scrape key specs of best buy laptops. I then cleaned the data and provided some visualizations 
-   - ![![image](https://github.com/williamuy/williamuy/assets/131928949/d046474a-2a40-496b-8243-9c5d868d5f61)](#)
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/williamuy/Laptop-Analysis">Laptop Analysis</a></h3>
+      <img src="https://github.com/williamuy/williamuy/assets/131928949/d046474a-2a40-496b-8243-9c5d868d5f61" alt="Laptop Analysis Visualization" style="max-width:100%;height:auto;">
+      <p>Description: Created a web scraper to scrape key specs of Best Buy laptops. I then cleaned the data and provided some visualizations.</p>
+      <p>Tools Used: Jupyter Notebook, Datalore</p>
+       <p>Libraries Used: Pandas, Numpy, Seaborn, Matplotlib, Statsmodel, Selenium,  Beautifulsoup</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="Your-Upcoming-Project-Link">Upcoming Project</a></h3>
+      <!-- Placeholder image or text can be added here -->
+      <p>Details coming soon...</p>
+      <p>Tools Planned: [List of planned tools]</p>
+    </td>
+  </tr>
+</table>
 
-2. **Project Name 2**
-   - Description: Briefly describe what this project is about.
-   - ![Project 2 Image Placeholder](#)
 
-3. **Project Name 3**
-   - Description: Briefly describe what this project is about.
-   - ![Project 3 Image Placeholder](#)
+
+
 
 *Note: More projects will be added as I continue my journey in data and tech.*
 ## Connect With Me
-
+just --->
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-uyeta-/)
 
 Looking forward to the exciting opportunities that lie ahead in the world of data and tech! 🌐
