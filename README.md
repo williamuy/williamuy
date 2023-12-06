@@ -27,9 +27,9 @@ Here you'll find projects that showcase my skills and my journey in the world of
 🔧 **Tools**: VSCode, IntelliJ, Tableau, Stata, Jupyter Notebook, Datalor
 
 ## Projects
-
+<!-- 
 📂 Here are some of the projects I've been working on. They demonstrate my skills in data analysis, programming, and software engineering:
-
+-->
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
