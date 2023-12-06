@@ -26,10 +26,14 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 🔧 **Tools**: VSCode, IntelliJ, Tableau, Stata, Jupyter Notebook, Datalor
 
+## Connect With Me
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-uyeta-/)
+
+Looking forward to the exciting opportunities that lie ahead in the world of data and tech! 🌐
+
 ## Projects
-<!-- 
-📂 Here are some of the projects I've been working on. They demonstrate my skills in data analysis, programming, and software engineering:
--->
+
 <div align="center">
   <h2>🌟 My Projects</h2>
   <p>Welcome to my portfolio of projects. Here you will find data science to software projects.</p>
@@ -74,17 +78,5 @@ Here you'll find projects that showcase my skills and my journey in the world of
   </a>
 </div>
 
-
-
-
-
-
-
-
-
 *Note: More projects will be added as I continue my journey in data and tech.*
-## Connect With Me
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-uyeta-/)
-
-Looking forward to the exciting opportunities that lie ahead in the world of data and tech! 🌐
