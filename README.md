@@ -36,7 +36,7 @@ Looking forward to the exciting opportunities that lie ahead in the world of dat
 
 <div align="center">
   <h2>🌟 My Projects</h2>
-  <p>Welcome to my portfolio of projects. Here you will find data science to software projects.</p>
+  <p>Welcome to my portfolio of projects. Here you will find projects from data science to software projects.</p>
 </div>
 
 ---
