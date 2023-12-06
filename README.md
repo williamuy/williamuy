@@ -15,7 +15,7 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 🚀 I'm on a journey to explore the vast world of both data science and software engineering.
 
-📚 Currently collaborating on a fullstack studyapp for the [dempsey startup competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/) competition.
+📚 Currently collaborating on a fullstack studyapp for the [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/).
 
 
 ## Skills
