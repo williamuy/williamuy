@@ -15,6 +15,9 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 🚀 I'm on a journey to explore the vast world of both data science and software engineering.
 
+📚 Currently collaborating on a fullstack studyapp for the [dempsey startup competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/) competition.
+
+
 ## Skills
 
 🛠 **Languages**: Java, Python, SQL
@@ -40,7 +43,7 @@ Here you'll find projects that showcase my skills and my journey in the world of
       <h3><a href="Your-Upcoming-Project-Link">Upcoming Project</a></h3>
       <!-- Placeholder image or text can be added here -->
       <p>Details coming soon...</p>
-      <p>Tools Planned: [List of planned tools]</p>
+      <p>Tools Planned: </p>
     </td>
   </tr>
 </table>
@@ -51,7 +54,7 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 *Note: More projects will be added as I continue my journey in data and tech.*
 ## Connect With Me
-just --->
+
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-uyeta-/)
 
 Looking forward to the exciting opportunities that lie ahead in the world of data and tech! 🌐
