@@ -4,8 +4,7 @@ Welcome to my GitHub profile!
 
 Here you'll find projects that showcase my skills and my journey in the world of data and tech.
 
-
-# About Me
+## About Me
 
 🎓 **Student**: Business / Management Information Systems at the University of Washington Bothell
 
@@ -16,7 +15,6 @@ Here you'll find projects that showcase my skills and my journey in the world of
 🚀 I'm on a journey to explore the vast world of both data science and software engineering.
 
 📚 Currently collaborating on a fullstack study app for the [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/).
-
 
 ## Skills
 
@@ -50,18 +48,15 @@ Looking forward to the exciting opportunities that lie ahead in the world of dat
     <strong>Description:</strong> A comprehensive project on web scraping, data preprocessing, and visualization of Best Buy laptop information. Python scripts for efficient data extraction, thorough cleaning methodologies, and diverse visualizations to analyze and present key laptop specifications and market trends.
   </p>
   <p>
-    <strong>Tech Stacks:</strong>
-  </p>
-  <p>
-    <strong>Languages:</strong> Python<br>
-    <strong>Libraries:</strong> Pandas, Numpy, Seaborn, Matplotlib, Statsmodel, Selenium, Beautifulsoup
+    <strong>Tech Stacks:</strong> Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodel, Selenium, Beautifulsoup
   </p>
   <a href="https://github.com/williamuy/Laptop-Analysis">
-    <img src="https://img.shields.io/badge/-View_Project-blue?style=for-the-badge&logo=github" alt="View Project" />
+    <img src="https://img.shields.io/badge/-View_Project-blue?style=for-the-badge&logo=github" alt="View Code" />
   </a>
 </div>
 
 ---
+
 <div align="center">
   <h3>🌐 Personal Landing Page</h3>
   <a href="Your-Personal-Website-Link">
@@ -71,22 +66,18 @@ Looking forward to the exciting opportunities that lie ahead in the world of dat
     <strong>Description:</strong> This is my personal landing page, a central hub showcasing my journey, skills, and projects in data science and software engineering. It features an elegant design, responsive layout, and detailed sections about my academic and professional pursuits.
   </p>
   <p>
-    <strong>Tech Stacks:</strong>
-  </p>
-  <p>
-    <strong>Languages:</strong> HTML, CSS, TypeScript<br>
-    <strong>Tools:</strong> React, TailwindCSS, Node.js, Firebase, AWS Route 53
+    <strong>Tech Stacks:</strong> HTML, CSS, TypeScript, React, TailwindCSS, Node.js, Firebase, AWS Route 53
   </p>
   <div>
     <a href="https://github.com/williamuy/PersonalWebsite">
       <img src="https://img.shields.io/badge/-View_Code-blue?style=for-the-badge&logo=github" alt="View Code" />
     </a>
+    <br>
     <a href="https://williamuyeta.com/">
       <img src="https://img.shields.io/badge/-View_Website-green?style=for-the-badge&logo=github" alt="View Website" />
     </a>
   </div>
 </div>
-
 
 
 ---
@@ -99,7 +90,7 @@ Looking forward to the exciting opportunities that lie ahead in the world of dat
   </a>
   <p>
     Details coming soon...<br>
-    Tools Planned: <i>To be announced</i>.
+    Tools Planned: To be announced.
   </p>
   <a href="Your-Upcoming-Project-Link">
     <img src="https://img.shields.io/badge/-Stay_Tuned-<COLOR>?style=for-the-badge&logo=github" alt="Stay Tuned" />
@@ -109,4 +100,3 @@ Looking forward to the exciting opportunities that lie ahead in the world of dat
 ---
 
 *Note: More projects will be added as I continue my journey in data and tech.*
-
