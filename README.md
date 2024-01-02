@@ -20,11 +20,11 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 ## Skills
 
-🛠 **Languages**: Java, Python, SQL
+🛠 **Languages**: Java, Python, SQL, TypeScript
 
-🌐 **Frameworks**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+🌐 **Frameworks**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, React, TailwindCSS
 
-🔧 **Tools**: VSCode, IntelliJ, Tableau, Stata, Jupyter Notebook, Datalor
+🔧 **Tools**: Tableau, Stata, Jupyter Notebook, Node.js, Next.js, Firebase, AWS Route 53 
 
 ## Connect With Me
 
@@ -62,6 +62,34 @@ Looking forward to the exciting opportunities that lie ahead in the world of dat
 </div>
 
 ---
+<div align="center">
+  <h3>🌐 Personal Landing Page</h3>
+  <a href="Your-Personal-Website-Link">
+    <img src="https://github.com/williamuy/williamuy/assets/131928949/80370b10-c44b-4f5c-8505-d211ba1f7d0b" alt="Personal Landing Page Screenshot" width="400" />
+  </a>
+  <p>
+    <strong>Description:</strong> This is my personal landing page, a central hub showcasing my journey, skills, and projects in data science and software engineering. It features an elegant design, responsive layout, and detailed sections about my academic and professional pursuits.
+  </p>
+  <p>
+    <strong>Tech Stacks:</strong>
+  </p>
+  <p>
+    <strong>Languages:</strong> HTML, CSS, TypeScript<br>
+    <strong>Tools:</strong> React, TailwindCSS, Node.js, Firebase, AWS Route 53
+  </p>
+  <div>
+    <a href="https://github.com/williamuy/PersonalWebsite">
+      <img src="https://img.shields.io/badge/-View_Code-blue?style=for-the-badge&logo=github" alt="View Code" />
+    </a>
+    <a href="https://williamuyeta.com/">
+      <img src="https://img.shields.io/badge/-View_Website-green?style=for-the-badge&logo=github" alt="View Website" />
+    </a>
+  </div>
+</div>
+
+
+
+---
 
 <div align="center">
   <h3>🚀 Upcoming Project</h3>
@@ -77,6 +105,8 @@ Looking forward to the exciting opportunities that lie ahead in the world of dat
     <img src="https://img.shields.io/badge/-Stay_Tuned-<COLOR>?style=for-the-badge&logo=github" alt="Stay Tuned" />
   </a>
 </div>
+
+---
 
 *Note: More projects will be added as I continue my journey in data and tech.*
 
