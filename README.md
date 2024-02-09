@@ -20,7 +20,7 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-uyeta-/)
 
-🌐 Feel free to also check [website](https://williamuyeta.com/)
+🌐 Feel free to also checkout my [website](https://williamuyeta.com/)
 
 ## Projects
 
