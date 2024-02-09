@@ -8,14 +8,6 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 🎓 **Student**: Business / Management Information Systems at the University of Washington Bothell
 
-🌟 **Passionate About**: Problem solving through data, software, and LLMs.
-
-## About My Journey
-
-🚀 I'm on a journey to explore the vast world of both data science and software engineering.
-
-📚 Currently collaborating on a fullstack study app for the [Dempsey Startup Competition](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/entrepreneurship-competitions/dempsey-startup-competition/).
-
 ## Skills
 
 🛠 **Languages**: Java, Python, SQL, TypeScript
@@ -28,7 +20,7 @@ Here you'll find projects that showcase my skills and my journey in the world of
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-uyeta-/)
 
-Looking forward to the exciting opportunities that lie ahead in the world of data and tech! 🌐
+🌐 Feel free to also check [website](https://williamuyeta.com/)
 
 ## Projects
 
